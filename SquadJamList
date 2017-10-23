@@ -1,0 +1,32 @@
+<!DOCTYPE>
+
+<html>
+<head>
+
+	<link href ="SquadJamList.css" rel="stylesheet"  type= "text/css"> <!--CSS link-->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><!--icon links-->
+	<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
+<body>
+
+	<title>SquadJam Playlist</title>
+
+</head>
+
+
+
+<div class = "wrapper">  </div>
+
+<div><h1> Playlist</h1> </div>
+
+<div> <h2> Artists </h2> </div>
+
+<div> <h2> Titles </h2> </div>
+
+<span class="fa-stack fa-lg">
+<i class="fa fa-thumbs-o-up fa-flip-horizontal fa-stack " style= "font-size:20px; text-shadow: 2px 2px 4px; "></i>
+<i class="fa fa-thumbs-o-down fa-flip-horizontal fa-stack-20x" style= "font-size:20px; text-shadow: 2px 2px 4px; "></i>
+
+</body>
+
+</html>
